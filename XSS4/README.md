@@ -6,6 +6,7 @@ Steps:
 
 <img width="1083" alt="Screen Shot 2022-04-06 at 5 36 52 PM" src="https://user-images.githubusercontent.com/78192383/162075671-60ebf6d5-0882-439a-85a2-0f108bb8f3ea.png">
 
+
 2) Wait for approval from the admin.
 
 3) If the admin approved malicious file will be download
