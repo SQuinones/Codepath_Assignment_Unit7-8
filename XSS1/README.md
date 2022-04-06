@@ -6,9 +6,11 @@ If the comment text is long enough, it will be truncated when inserted in the da
 
 STEPS:
 
-    Create a comment on a post
-    The admnin needs to approve the commnet. So we need to make a nice trust comment
-    After the approval we insert the injection XSS in the comments
+1)Create a comment on a post
+
+2)The admnin needs to approve the commnet. So we need to make a nice trust comment
+
+3)After the approval we insert the injection XSS in the comments
 
 XSS to insert:
 
