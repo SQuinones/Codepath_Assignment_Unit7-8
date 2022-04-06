@@ -18,7 +18,7 @@ Steps:
     </body>
     </html>
     
-    2)With that code set up a malicious website
+2)With that code set up a malicious website
 
 3)The malicious website will automatically submit ad post the comment 'I made a new comment' as an admin.
 
