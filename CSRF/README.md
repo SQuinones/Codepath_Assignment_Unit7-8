@@ -2,7 +2,11 @@ Cross Site Request Forgery (CSRF) Cross-Site Request Forgery (CSRF) is an attack
 
 Steps:
 
-1)Create a malicious form code:
+1)Make a comment 
+
+2) Then inspect the code to be able to create a malicious form 
+
+3)Create a malicious form code:
 
     <html>
         <head></head>
@@ -18,9 +22,9 @@ Steps:
     </body>
     </html>
     
-2)With that code set up a malicious website
+4)With that code set up a malicious website
 
-3)The malicious website will automatically submit ad post the comment 'I made a new comment' as an admin.
+5)The malicious website will automatically submit ad post the comment 'I made a new comment' as an admin.
 
 Tested in version: WordPress <= 4.2
 
