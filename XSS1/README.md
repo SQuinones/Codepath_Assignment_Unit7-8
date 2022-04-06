@@ -12,7 +12,7 @@ STEPS:
 
 XSS to insert:
 
-![Screen Shot 2022-04-06 at 5 23 06 PM](https://user-images.githubusercontent.com/78192383/162073499-72fb66b6-a8f8-438e-9d68-a6096330122b.png)
+<img width="1089" alt="Screen Shot 2022-04-06 at 5 26 05 PM" src="https://user-images.githubusercontent.com/78192383/162073988-b9bdf953-19a6-4d4a-a73b-b2f061b0dcfd.png">
 
 
 Screen Shot 2022-04-06 at 3 43 49 PM
@@ -37,5 +37,7 @@ https://packetstormsecurity.com/files/131644/
 
 GIF Walkthrough:
 
-![XSS](https://user-images.githubusercontent.com/78192383/162073551-44d5e276-288f-4b7a-8a3b-3af9e7855b2b.gif)
+![XSS1](https://user-images.githubusercontent.com/78192383/162074033-32dc3aa6-7e3f-4d21-9374-1b2430dd714d.gif)
+
+
 
