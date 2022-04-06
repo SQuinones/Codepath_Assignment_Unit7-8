@@ -12,9 +12,6 @@ Steps:
 <img width="1116" alt="Screen Shot 2022-04-06 at 5 28 45 PM" src="https://user-images.githubusercontent.com/78192383/162074451-8af4103e-4be0-4603-b54b-3ae780e17459.png">
 
 
-
-Screen Shot 2022-04-06 at 4 19 21 PM
-
 Tested in version: WordPress <= 4.2.3
 
 Fixed in version: 4.2.4
