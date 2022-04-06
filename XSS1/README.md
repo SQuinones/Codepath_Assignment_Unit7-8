@@ -17,8 +17,6 @@ XSS to insert:
 <img width="1089" alt="Screen Shot 2022-04-06 at 5 26 05 PM" src="https://user-images.githubusercontent.com/78192383/162073988-b9bdf953-19a6-4d4a-a73b-b2f061b0dcfd.png">
 
 
-Screen Shot 2022-04-06 at 3 43 49 PM
-
 Tested in version: WordPress <= 4.2
 
 Fixed in version: 4.2.1
