@@ -1,4 +1,4 @@
-Cross Site Request Forgery (CSRF) Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated. CSRF attacks are possible when the application does not ensure that a user is in fact interacting with it.
+ Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated. CSRF attacks are possible when the application does not ensure that a user is in fact interacting with it.
 
 Steps:
 
